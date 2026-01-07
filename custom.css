@@ -29,7 +29,7 @@ header h1 {
 
 (right below header) */
      .box {
-  background-color: #111;
+  background-color: white;
   border: 1px solid #333;
   border-radius: 6px;
   padding: 5px 5px 5px 5px;
