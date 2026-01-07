@@ -24,19 +24,7 @@ header h1 {
   margin: 0;
   padding: 0;
   font-size: 2em;
-  line-height: 1.2em;    /* vertically centered text */
-}
-
-/* PDF Upload box (right below header) */
-# .box{
-  background-color: Red;
-  border: 2px solid grey;
-  border-radius: 6px;
-  padding: 8px 8px 8px 8px;
-  margin: 5px auto 8px auto;   /* tiny space under header */
-  width: 40%;
-  max-width: 350px;
-{
+  line-height: 1.2em;    /* vertically centered 
 
 .container {
   position: relative; /* Set the parent to relative */
