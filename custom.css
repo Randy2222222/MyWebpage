@@ -37,7 +37,7 @@ h2 {
   font-size: 1.5em;
 }
 
-header h3 {
+        h3{
   margin: 0;
   padding: 0;
   font-size: 3em;
@@ -45,13 +45,14 @@ header h3 {
   }
 
 
-h2 {
+h4 {
   margin-top: 2px;
   margin-bottom: 4px;
   font-size: 1.5em;
 }
 .text-box {
   height: 80px;
+  font-size: 3em;
     width: 40%; /* Set the width of the text box */
     margin: 2px auto; /* Center the text box and add space above and below */
     padding: 2px; /* Add padding inside the text box */
