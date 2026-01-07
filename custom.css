@@ -26,7 +26,8 @@ header h1 {
   font-size: 3em;
   line-height: 1.2em;    
   }
-PDF Upload box (right below header) */
+
+(right below header) */
      .box {
   background-color: #111;
   border: 1px solid #333;
@@ -38,6 +39,7 @@ PDF Upload box (right below header) */
 }
 h2 {
   margin-top: 4px;
+  padding: 0;
   margin-bottom: 6px;
   font-size: 1.2em;
 }
