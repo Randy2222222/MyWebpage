@@ -22,6 +22,16 @@ header h1 {
   font-size: 3em;
   line-height: 1.5em;    /* vertically centered text */
 }
+header h2 {
+  background-color: black;
+  color: white;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 2px 0 8px 0;
+  margin: 5px auto 8px auto;   /* tiny space under header */
+  width: 40%;
+  max-width: 350px;
+}
 .container {
   position: relative; /* Set the parent to relative */
   height: 400px;     /* Set a height for the container */
