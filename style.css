@@ -11,3 +11,13 @@
   --preformatted: #ccc;
   --disabled: #111;
 }
+
+* Header (blue banner) */
+header {
+  background-color: #004aad;
+  color: #fff;
+  text-align: center;
+  padding: 0.3em 0;      /* thin height */
+  margin: 0;
+  line-height: 1;        /* tighten blue bar */
+}
