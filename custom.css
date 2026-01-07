@@ -1,6 +1,6 @@
 :root {
  --color-scheme: dark;
- --bg: #212121;
+ --bg: #000000;
  --accent-bg: #2b2b2b;
   --text: #dcdcdc;
   --text-light: #ababab;
@@ -12,19 +12,3 @@
  --disabled: #111;
 }
 
-* Header (blue banner) */
-header {
-  background-color: #004aad;
-  color: #fff;
-  text-align: center;
-  padding: 0.3em 0;      /* thin height */
-  margin: 0;
-  line-height: 1;        /* tighten blue bar */
-}
-
-header h1 {
-  margin: 0;
-  padding: 0;
-  font-size: 2em;
-  line-height: 1.2em;    /* vertically centered text */
-}
