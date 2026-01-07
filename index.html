@@ -21,7 +21,9 @@
      <div> <!-- ⚪️ Create Button -->
     <button id="Death">Death</button>
   </div>
-         
+         document.getElementById("Death").addEventListener("click", async () => {
+  const file = document.getElementById("pdfFile").files[0];
+  if (!file) return alert("Select a PDF first!");
       <main></main>
   
 
