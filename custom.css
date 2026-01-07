@@ -20,6 +20,12 @@ header {
   line-height: 1;        /* tighten blue bar */
 }
 
+h2 {
+  margin-top: 4px;
+  margin-bottom: 6px;
+  font-size: 1.2em;
+}
+
 
 .container {
   position: relative; /* Set the parent to relative */
