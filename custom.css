@@ -22,3 +22,14 @@ header h1 {
   font-size: 2em;
   line-height: 1.2em;    /* vertically centered text */
 }
+.container {
+  position: relative; /* Set the parent to relative */
+  height: 200px;     /* Set a height for the container */
+}
+
+.text {
+  position: absolute; /* Position the text absolutely */
+  bottom: 0;         /* Align to the bottom */
+  left: 50%;         /* Center horizontally */
+  transform: translateX(-50%); /* Adjust for centering */
+}
