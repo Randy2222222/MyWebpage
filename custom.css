@@ -22,20 +22,7 @@ header h1 {
   font-size: 3em;
   line-height: 1.5em;    /* vertically centered text */
 }
-.container {
-  display: flex;
-  align-items: flex-end;,
-  justify-content: center;
-  height: 100vh; /* Full height of the viewport */
-}
 
-.box {
-  width: 200px;
-  height: 100px;
-  background-color: Red;
-  text-align: center;
-  line-height: 100px; /* Center text vertically */
-}
 
 
 
