@@ -51,7 +51,7 @@ h2 {
   font-size: 1.5em;
 }
 .text-box {
-  height: 20%;
+  height: 80px;
     width: 40%; /* Set the width of the text box */
     margin: 2px auto; /* Center the text box and add space above and below */
     padding: 2px; /* Add padding inside the text box */
