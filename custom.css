@@ -26,6 +26,8 @@ header h2 {
   background-color: black;
   color: white;
   border: 1px solid #333;
+  text-align: center;
+  font-size: 1em;
   border-radius: 6px;
   padding: 2px 0 8px 0;
   margin: 5px auto 8px auto;   /* tiny space under header */
