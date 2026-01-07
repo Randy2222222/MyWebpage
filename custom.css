@@ -8,7 +8,7 @@ html, body {
 }
 
 header {
-  background-color: Dark Grey;
+  background-color: #A9A9A9;
   color: Red;
   text-align: center;
   padding: 0.3em 0;      /* thin height */
