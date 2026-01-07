@@ -36,7 +36,15 @@ h2 {
   margin-bottom: 4px;
   font-size: 1.5em;
 }
-  
+
+.text-box {
+    width: 80%; /* Set the width of the text box */
+    margin: 20px auto; /* Center the text box and add space above and below */
+    padding: 20px; /* Add padding inside the text box */
+    background-color: #f0f0f0; /* Background color for visibility */
+    border: 1px solid #ccc; /* Optional border */
+    border-radius: 5px; /* Optional rounded corners */
+}
 
 .container {
   position: relative; /* Set the parent to relative */
