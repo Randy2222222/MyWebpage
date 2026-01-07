@@ -36,6 +36,11 @@ PDF Upload box (right below header) */
   width: 40%;
   max-width: 350px;
 }
+h2 {
+  margin-top: 4px;
+  margin-bottom: 6px;
+  font-size: 1.2em;
+}
   
 
 .container {
