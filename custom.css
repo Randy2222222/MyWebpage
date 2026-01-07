@@ -20,16 +20,6 @@ header {
   line-height: 1;        /* tighten blue bar */
 }
 
-.text-box {
-  height: 80px;
-  font-size: 1.5em;
-    width: 40%; /* Set the width of the text box */
-    margin: 2px auto; /* Center the text box and add space above and below */
-    padding: 2px; /* Add padding inside the text box */
-    background-color: #f0f0f0; /* Background color for visibility */
-    border: 1px solid #ccc; /* Optional border */
-    border-radius: 5px; /* Optional rounded corners */
-}
 
 .container {
   position: relative; /* Set the parent to relative */
