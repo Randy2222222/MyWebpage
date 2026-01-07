@@ -22,11 +22,11 @@ header h1 {
   font-size: 3em;
   line-height: 1.5em;    /* vertically centered text */
 }
-.box header h2{
-    width: 200px; /* Set the width */
+.box {
+    width: 350px; /* Set the width */
     text-align: center;
     font-size: 1.5em;
-    height: 100px; /* Set the height */
+    height: 80px; /* Set the height */
     background-color: red; /* Set the background color */
     border: 2px grey; /* Add a border */
     padding: 10px; /* Add padding inside the box */
