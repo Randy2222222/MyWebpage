@@ -15,6 +15,15 @@ header {
   margin: 0;
   line-height: 1;        /* tighten blue bar */
 }
+      h2 {
+  background-color: Red;
+  border: 1px solid #333;
+  border-radius: 6px;
+  padding: 2px 0 8px 0;
+  margin: 5px auto 8px auto;   /* tiny space under header */
+  width: 40%;
+  max-width: 350px;
+}
 
 
 
