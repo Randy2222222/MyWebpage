@@ -23,6 +23,22 @@ header h1 {
   line-height: 1.5em;    /* vertically centered text */
 }
 
+.flex-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 200px;
+        }
+​
+        .flex-box {
+            width: 250px;
+            height: 100px;
+            border: 2px solid #000;
+            background-color: green;
+            padding: 15px;
+            color: white;
+        } 
+
 
 .container {
   position: relative; /* Set the parent to relative */
