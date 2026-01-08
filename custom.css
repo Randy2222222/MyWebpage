@@ -10,14 +10,14 @@ html, body {
   text-align: center;
 }
 
-/* Header (blue banner) */
+/* Header Red Banner) */
 header {
   background-color: Red;
   color: Black;
   text-align: center;
   padding: 0.3em 0;      /* thin height */
   margin: 0;
-  line-height: 1;        /* tighten blue bar */
+  line-height: 1;        /* tighten red bar */
 }
 
 header h1 {
@@ -41,7 +41,7 @@ h2 {
   margin: 2px auto 0 auto;  /* centers button + small gap above */
 }
 
-
+/*Added Container for Signature */
 .container {
   position: relative; /* Set the parent to relative */
   height: 400px;     /* Set a height for the container */
