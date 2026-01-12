@@ -34,9 +34,9 @@ h2 {
   font-size: 1.5em;
 }
 h3 {
-/*  line-height: 10%;*/
+  line-height: 5%;
   font-size: 1.5em;
-  margin-top: 5px;
+  
 }
 
    #Death {
@@ -44,7 +44,7 @@ h3 {
   color: Red;
   font-size: 1.2em;
   display: block;
-  margin: 5px auto 0 auto;  /* centers button + small gap above */
+  margin: 8px auto 0 auto;  /* centers button + small gap above */
 }
 
 /*Added Container for Signature */
