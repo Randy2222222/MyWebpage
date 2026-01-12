@@ -43,7 +43,7 @@ h3 {
   color: Red;
   font-size: 1.2em;
   display: block;
-  margin: 2px auto 0 auto;  /* centers button + small gap above */
+  margin: 5px auto 0 auto;  /* centers button + small gap above */
 }
 
 /*Added Container for Signature */
